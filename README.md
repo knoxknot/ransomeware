@@ -38,4 +38,3 @@ Although this simulates encrypting and decrypting files in a given directory. Th
 - https://www.thepolyglotdeveloper.com/2018/02/encrypt-decrypt-data-golang-application-crypto-packages/
 - https://www.programming-books.io/essential/go/encryption-and-decryption-with-aes-gcm-474ffe54eb92473b908b5ef162789cad
 - https://go.dev/src/crypto/aes/aes_gcm.go
-- https://go.dev/src/crypto/aes/aes_gcm.go
